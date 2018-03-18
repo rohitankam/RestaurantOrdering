@@ -2,71 +2,104 @@
 <instant-run
     abi="x86_64,x86"
     api-level="26"
-    build-mode="COLD"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1521298291352"
-    token="-1646667826637472756"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1521388527143"
+    token="-1842882135590388451"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="5280" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="1200" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1210" />
+
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\outputs\apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1521297391213"
+        timestamp="1521388527143"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\ROHiT\Downloads\iBread-20180314T145646Z-001\iBread\Valley_Bread_Client\app\build\outputs\apk\debug\app-debug.apk"
+            location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1521298291352"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

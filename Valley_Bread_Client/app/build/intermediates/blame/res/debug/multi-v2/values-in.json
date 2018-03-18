@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ROHiT\\Downloads\\iBread-20180314T145646Z-001\\iBread\\Valley_Bread_Client\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+            "outputFile": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
             "map": [
                 {
                     "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0465b4edf88e968bd80436860ca2e149\\res\\values-in\\values.xml",

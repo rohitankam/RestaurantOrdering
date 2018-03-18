@@ -1,4 +1,4 @@
-#Sat Mar 17 20:07:34 IST 2018
-base.0=C\:\\Users\\ROHiT\\Downloads\\iBread-20180314T145646Z-001\\iBread\\Valley_Bread_Client\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+#Sun Mar 18 21:26:25 IST 2018
+base.0=C\:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex
