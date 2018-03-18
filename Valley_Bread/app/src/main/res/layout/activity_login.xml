@@ -7,6 +7,8 @@
     android:orientation="vertical"
     tools:context="com.tetteh1568.valley_bread.LoginActivity">
 
+
+
     <EditText
         android:id="@+id/userEmail"
         android:layout_width="match_parent"
