@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    tools:context="com.tetteh1568.valley_bread_client.MenuActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="121dp"
+            android:orientation="horizontal"
+
+            >
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="160dp"
+                android:id="@+id/breadImage"
+                android:background="@drawable/bb1" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Butter Bread"
+                android:textSize="30dp"
+                android:layout_toEndOf="@+id/breadImage"
+                android:textColor="#000000"
+                android:layout_marginTop="12dp"
+                android:id="@+id/breadName"
+
+                />
+            <TextView
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/breadImage"
+                android:layout_below="@+id/breadName"
+                android:text="Tasty VVU Butter Bread"
+                android:layout_marginLeft="5dp"
+                android:id="@+id/breadDesc"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GHS5"
+                android:textSize="20dp"
+                android:textStyle="bold|italic"
+                android:textColor="#4CAF50"
+                android:id="@+id/breadPrice"
+                android:layout_below="@+id/breadDesc"
+                android:layout_alignEnd="@+id/breadDesc"/>
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>

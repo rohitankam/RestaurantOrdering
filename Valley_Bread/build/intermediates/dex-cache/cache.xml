@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\7a84b24ce885940945777cad6c90ce54573fd306\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\admin\Desktop\iBread\Valley_Bread\app\build\intermediates\pre-dexed\debug\classes_dcf56a140c4a7513c386265df548b8d10fb30b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\fd5085265e277a6118376c5b7a5e735e88d045ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\admin\Desktop\iBread\Valley_Bread\app\build\intermediates\pre-dexed\debug\classes_906b453b2a7b3511ce3273931d9462fb01ea5839.jar" />
+    </item>
+
+</items>
