@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Valley_Bread_Client</string>
+    <string name="app_name"></string>
     <string name="already_have_an_account">Already have an Account?</string>
     <string name="register_here">Register Here</string>
 </resources>

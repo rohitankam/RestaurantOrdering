@@ -6,22 +6,22 @@
     density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1521388527143"
+    timestamp="1521917925792"
     token="-1842882135590388451"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="5280" />
+        duration="5449" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1200" />
+        duration="1412" />
     <task
         name="verifier"
-        duration="1210" />
+        duration="2639" />
 
     <artifact
         location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1521388527143"
+        timestamp="1521917925792"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread_Client\app\build\intermediates\split-apk\debug\dep\dependencies.apk"

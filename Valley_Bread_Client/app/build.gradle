@@ -35,6 +35,7 @@ dependencies {
     compile 'com.firebaseui:firebase-ui-database:0.4.4'
     compile 'com.squareup.picasso:picasso:2.5.2'
     testCompile 'junit:junit:4.12'
+    implementation 'com.android.support:design:26.1.0'
 }
 
 
