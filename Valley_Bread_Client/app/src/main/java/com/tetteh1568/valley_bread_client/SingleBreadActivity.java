@@ -82,7 +82,7 @@ public class SingleBreadActivity extends AppCompatActivity {
                 newOrders.child("username").setValue(dataSnapshot.child("Name").getValue()).addOnCompleteListener(new OnCompleteListener<Void>() {
                     @Override
                     public void onComplete(@NonNull Task<Void> task) {
-                        Toast.makeText(SingleBreadActivity.this,"Order placed",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(SingleBreadActivity.this,bread_key,Toast.LENGTH_SHORT).show();
                         startActivity(new Intent(SingleBreadActivity.this,MenuActivity.class));
                     }
                 });

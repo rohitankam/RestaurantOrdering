@@ -12,6 +12,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.firebase.auth.FirebaseAuth;
@@ -77,6 +78,7 @@ public class MenuActivity extends AppCompatActivity {
                    public void onClick(View v) {
                             Intent singleBreadActivity = new Intent(MenuActivity.this,SingleBreadActivity.class);
                             singleBreadActivity.putExtra("BreadId",bread_key);
+                       Toast.makeText(MenuActivity.this,bread_key,Toast.LENGTH_LONG).show();
                             startActivity(singleBreadActivity);
                    }
                }

@@ -39,8 +39,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void signupButtonClicked(View view) {
-        final String email_text = email.getText().toString().trim();
+        final String user_name = email.getText().toString().trim();
         final String pass_text = pass.getText().toString().trim();
+        final String email_text=user_name+"@gmail.com";
 
         if (!TextUtils.isEmpty(email_text) && !TextUtils.isEmpty(pass_text)){
             mAuth.createUserWithEmailAndPassword(email_text,pass_text).addOnCompleteListener(new OnCompleteListener<AuthResult>() {

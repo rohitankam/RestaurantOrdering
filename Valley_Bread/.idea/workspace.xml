@@ -12,8 +12,316 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f931569-b052-47e1-9f6a-ba027e4a7c0d" name="Default" comment="demo">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/generated/source/r/debug/android/support/compat/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/coreui/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/firebase/ui/database/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/firebase/ui/database/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/firebase/ui/database/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$bool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$id.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/javaCompile/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/compat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/firebase/ui/database/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/firebase/ui/database/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/google/android/gms/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/LoginActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/LoginActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/LoginActivity$2.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/LoginActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/LoginActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MainActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MainActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity$2$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity$2.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity$BreadViewHolder.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity$BreadViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/MenuActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$integer.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$layout.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$mipmap.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$string.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$style.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$styleable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/SingleBreadActivity$2$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/SingleBreadActivity$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/SingleBreadActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/classes/debug/com/tetteh1568/valley_bread_client/SingleBreadActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/compat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/compat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/coreui/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/fragment/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/fragment/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/v4/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/v4/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/firebase/ui/database/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/firebase/ui/database/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/LoginActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/LoginActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/LoginActivity$2.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/LoginActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/LoginActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MainActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MainActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity$2$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity$2.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity$BreadViewHolder.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity$BreadViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/MenuActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$id.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$integer.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$layout.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$mipmap.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$string.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$style.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$styleable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/SingleBreadActivity$2$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/SingleBreadActivity$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/SingleBreadActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental-verifier/debug/com/tetteh1568/valley_bread_client/SingleBreadActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/res/debug/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/res/merged/debug/values_values.arsc.flat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_0.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_1.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_3.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_4.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_5.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_7.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/firebase/ui/database/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/firebase/ui/database/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/google/android/gms/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/LoginActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/LoginActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/LoginActivity$2.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/LoginActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/LoginActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MainActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MainActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity$2$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity$2.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity$BreadViewHolder.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity$BreadViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/MenuActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$id.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$integer.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$layout.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$mipmap.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$string.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$style.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$styleable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/SingleBreadActivity$2$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/SingleBreadActivity$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/SingleBreadActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRun/debug/0/com/tetteh1568/valley_bread_client/SingleBreadActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/compat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/compat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/fragment/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/fragment/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/mediacompat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/mediacompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/firebase/ui/database/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/1/com/firebase/ui/database/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/coreutils/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/coreutils/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v4/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v4/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/3/android/support/graphics/drawable/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/3/android/support/graphics/drawable/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/4/com/google/android/gms/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/LoginActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/LoginActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/LoginActivity$2.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/LoginActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/LoginActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/LoginActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MainActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MainActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity$2$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity$2.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity$BreadViewHolder.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity$BreadViewHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/MenuActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$id.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$integer.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$layout.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$mipmap.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$string.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$style.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$styleable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/SingleBreadActivity$2$1.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/SingleBreadActivity$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/SingleBreadActivity.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/5/com/tetteh1568/valley_bread_client/SingleBreadActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/coreui/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/coreui/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/v7/recyclerview/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/v7/recyclerview/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/8/android/support/graphics/drawable/animated/R$drawable.class" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/instantRunSlicer/debug/8/android/support/graphics/drawable/animated/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/generated/source/r/debug/android/support/fragment/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/generated/source/r/debug/android/support/v4/R.java" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/generated/source/r/debug/android/support/v4/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/blame/res/debug/multi-v2/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/build-info/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/java/com/tetteh1568/valley_bread_client/LoginActivity.java" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/java/com/tetteh1568/valley_bread_client/LoginActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/java/com/tetteh1568/valley_bread_client/MainActivity.java" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/java/com/tetteh1568/valley_bread_client/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/java/com/tetteh1568/valley_bread_client/MenuActivity.java" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/java/com/tetteh1568/valley_bread_client/MenuActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/java/com/tetteh1568/valley_bread_client/SingleBreadActivity.java" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/java/com/tetteh1568/valley_bread_client/SingleBreadActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/res/layout/activity_login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/../Valley_Bread_Client/app/src/main/res/values/strings.xml" />
     </list>
     <ignored path="Valley_Bread.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,16 +354,28 @@
     <favorites_list name="Valley_Bread" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="activity_login.xml" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="activity_login.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenOrders.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/OpenOrders.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="476">
+              <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+              <folding>
+                <element signature="e#1167#1191#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1859,10 +2179,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1884,9 +2203,19 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+              <option name="myItemId" value="Valley_Bread" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1899,26 +2228,17 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Valley_Bread" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+              <option name="myItemId" value="valley_bread" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2017,7 +2337,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521382384936" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522073618887" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2065,7 +2385,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521382384936" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522073618887" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2240,7 +2560,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521382384937" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522073618888" />
       </method>
     </configuration>
     <list size="1">
@@ -2290,16 +2610,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="752" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828283" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32491583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Assistant" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2308,9 +2627,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828283" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
@@ -2324,6 +2643,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Assistant" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2381,28 +2701,35 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#363#403#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_bread.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/AddBread.java">
@@ -2420,16 +2747,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding>
-            <element signature="e#363#403#0" expanded="false" />
-          </folding>
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/AddBread.java">
@@ -2448,14 +2772,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_bread.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/MainActivity.java">
@@ -2466,27 +2789,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#363#403#0" expanded="false" />
-          </folding>
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_bread.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/AddBread.java">
@@ -2512,27 +2831,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding>
-            <element signature="e#363#403#0" expanded="false" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_bread.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_bread.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/AddBread.java">
@@ -2551,27 +2866,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding>
-            <element signature="e#363#403#0" expanded="false" />
-          </folding>
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
@@ -2590,49 +2901,44 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_bread.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="41" column="37" lean-forward="false" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sinpleorderitem.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_open_orders.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_open_orders.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="e#363#403#0" expanded="false" />
-          </folding>
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/Order.java">
@@ -2650,22 +2956,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/OpenOrders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="74" lean-forward="false" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sign_in.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/SignInActivity.java">
@@ -2683,25 +2981,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="24" selection-end-column="47" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
+      <provider editor-type-id="android-manifest">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/MainActivity.java">
@@ -2722,18 +3019,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/tetteh1568/valley_bread/OpenOrders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="476">
+          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <folding>
+            <element signature="e#1167#1191#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

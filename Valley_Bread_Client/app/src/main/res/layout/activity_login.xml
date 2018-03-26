@@ -9,11 +9,13 @@
     tools:context="com.tetteh1568.valley_bread_client.LoginActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/app_name"
         android:textStyle="bold|italic"
-        android:textSize="50dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="45dp"
+        android:textAlignment="center"
         />
 
     <LinearLayout
@@ -25,7 +27,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="78dp"
         android:orientation="vertical"
-        android:background="#4affffff"
+        android:background="#50ffffff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
