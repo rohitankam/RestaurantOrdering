@@ -10,6 +10,7 @@
         <item name="android:textColor">@color/textprimary</item>
         <item name="android:textColorHint">@color/textprimary</item>
         <item name="android:textColorPrimary">@color/inputtext</item>
+
     </style>
 
 </resources>

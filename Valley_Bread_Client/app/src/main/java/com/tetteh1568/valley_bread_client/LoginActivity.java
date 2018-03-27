@@ -49,6 +49,8 @@ public class LoginActivity extends AppCompatActivity {
 
 
     public void signinButtonClicked(View view) {
+        conn=(ConnectivityManager)getSystemService(CONNECTIVITY_SERVICE);
+        net=conn.getActiveNetworkInfo();
          username = userEmail.getText().toString().trim();
          pass = userPass.getText().toString().trim();
          email=username+"@gmail.com";
@@ -65,13 +67,15 @@ public class LoginActivity extends AppCompatActivity {
                             checkUserExists();
                         }
                         else {
-                            Toast.makeText(LoginActivity.this,"UserName or Password Incorrect",Toast.LENGTH_SHORT).show();
+                            Toast.makeText(LoginActivity.this,"UserName and Password Incorrect",Toast.LENGTH_SHORT).show();
                         }
                     }
                 });
             }
             else{
                 Toast.makeText(LoginActivity.this,"No Internet Connection",Toast.LENGTH_SHORT).show();
+                conn=(ConnectivityManager)getSystemService(CONNECTIVITY_SERVICE);
+                net=conn.getActiveNetworkInfo();
             }
         }
     }
@@ -92,6 +96,7 @@ public class LoginActivity extends AppCompatActivity {
                             if(email.equals(dataSnapshot.child("Name").getValue().toString()) && pass.equals(dataSnapshot.child("Pass").getValue().toString())) {
                                 Intent menuIntent = new Intent(LoginActivity.this, MenuActivity.class);
                                 startActivity(menuIntent);
+                                finish();
                     }
                     else{
                         Log.d("success", dataSnapshot.child("Name").getValue().toString());
