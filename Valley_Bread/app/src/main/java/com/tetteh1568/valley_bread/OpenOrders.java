@@ -34,7 +34,7 @@ public class OpenOrders extends AppCompatActivity {
         FirebaseRecyclerAdapter<Order,OrderViewHolder> FRBA = new FirebaseRecyclerAdapter<Order, OrderViewHolder>(
 
                 Order.class,
-                R.layout.sinpleorderitem,
+                R.layout.singleorderitem,
                 OrderViewHolder.class,
                 mDatabase
 

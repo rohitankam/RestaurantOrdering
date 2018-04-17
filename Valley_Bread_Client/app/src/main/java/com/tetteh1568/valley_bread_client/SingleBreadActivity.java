@@ -2,6 +2,7 @@ package com.tetteh1568.valley_bread_client;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
+import android.support.v4.app.NavUtils;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -82,8 +83,8 @@ public class SingleBreadActivity extends AppCompatActivity {
                 newOrders.child("username").setValue(dataSnapshot.child("Name").getValue()).addOnCompleteListener(new OnCompleteListener<Void>() {
                     @Override
                     public void onComplete(@NonNull Task<Void> task) {
-                        Toast.makeText(SingleBreadActivity.this,bread_key,Toast.LENGTH_SHORT).show();
-                        startActivity(new Intent(SingleBreadActivity.this,MenuActivity.class));
+                        NavUtils.navigateUpFromSameTask(SingleBreadActivity.this);
+                        finish();
                     }
                 });
             }
@@ -94,4 +95,11 @@ public class SingleBreadActivity extends AppCompatActivity {
             }
         });
     }
+
+    @Override
+    public void onBackPressed() {
+        NavUtils.navigateUpFromSameTask(this);
+        super.onBackPressed();
+    }
+
 }

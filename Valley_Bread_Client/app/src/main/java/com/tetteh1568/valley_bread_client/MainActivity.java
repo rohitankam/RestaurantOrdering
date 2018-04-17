@@ -90,6 +90,7 @@ public class MainActivity extends AppCompatActivity {
     public void signinButtonClicked(View view){
         Intent loginIntent = new Intent(MainActivity.this,LoginActivity.class);
         startActivity(loginIntent);
+        finish();
     }
 
 

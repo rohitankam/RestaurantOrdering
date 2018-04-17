@@ -248,6 +248,10 @@
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a061d109ee79d312c38d5e9f302b9a8e\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
@@ -268,12 +272,12 @@
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a061d109ee79d312c38d5e9f302b9a8e\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
-        "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e93e4fadb175570d47d15d89234f1df4\\res\\drawable\\design_fab_background.xml"
-    },
-    {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e93e4fadb175570d47d15d89234f1df4\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
@@ -324,6 +328,10 @@
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_a_signup.jpg.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\drawable-xhdpi\\a_signup.jpg"
+    },
+    {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0465b4edf88e968bd80436860ca2e149\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
@@ -364,12 +372,20 @@
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e93e4fadb175570d47d15d89234f1df4\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -772,6 +788,10 @@
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
@@ -840,8 +860,8 @@
         "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\drawable-xhdpi\\pass.png"
     },
     {
-        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable_b1.jpg.flat",
-        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\drawable\\b1.jpg"
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
@@ -1260,6 +1280,10 @@
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a061d109ee79d312c38d5e9f302b9a8e\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c_menu_item.jpg.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\drawable-xhdpi\\c_menu_item.jpg"
+    },
+    {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
@@ -1274,6 +1298,10 @@
     {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1456,6 +1484,10 @@
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e93e4fadb175570d47d15d89234f1df4\\res\\color\\design_tint_password_toggle.xml"
     },
     {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
@@ -1588,6 +1620,10 @@
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_b_login.jpg.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\drawable-xhdpi\\b_login.jpg"
+    },
+    {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -1686,6 +1722,10 @@
     {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\gradle-3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b8877024801c320fe8706c34c25b62a5\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\ROHiT\\AndroidStudioProjects\\RestaurantOrdering\\Valley_Bread_Client\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",

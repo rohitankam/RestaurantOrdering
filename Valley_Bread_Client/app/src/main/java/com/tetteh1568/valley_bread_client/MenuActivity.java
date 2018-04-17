@@ -4,8 +4,10 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.support.annotation.NonNull;
 import android.support.annotation.RequiresApi;
+import android.support.v4.app.NavUtils;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -26,6 +28,8 @@ public class MenuActivity extends AppCompatActivity {
     private DatabaseReference mDatabase;
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
+    private  boolean backclick=false;
+
 
     @RequiresApi(api = Build.VERSION_CODES.GINGERBREAD)
     @Override
@@ -78,7 +82,6 @@ public class MenuActivity extends AppCompatActivity {
                    public void onClick(View v) {
                             Intent singleBreadActivity = new Intent(MenuActivity.this,SingleBreadActivity.class);
                             singleBreadActivity.putExtra("BreadId",bread_key);
-                       Toast.makeText(MenuActivity.this,bread_key,Toast.LENGTH_LONG).show();
                             startActivity(singleBreadActivity);
                    }
                }
@@ -117,6 +120,32 @@ public class MenuActivity extends AppCompatActivity {
         }
     }
 
+
+
+
+    @Override
+    public void onBackPressed() {
+        if(!backclick){
+            Toast.makeText(this,"Press back again to exit",Toast.LENGTH_SHORT).show();
+            backclick=true;
+        }
+        else {
+            super.onBackPressed();
+        }
+
+        new CountDownTimer(3000,1000){
+
+            @Override
+            public void onTick(long l) {
+
+            }
+
+            @Override
+            public void onFinish() {
+                backclick=false;
+            }
+        }.start();
+    }
 
 }
 
