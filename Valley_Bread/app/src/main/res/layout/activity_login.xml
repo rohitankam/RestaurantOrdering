@@ -4,8 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/a"
+    android:background="@drawable/b"
     tools:context="com.tetteh1568.valley_bread.LoginActivity">
+
+    <ProgressBar
+        android:id="@+id/progressBar2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:foregroundGravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:visibility="invisible"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
@@ -68,6 +80,7 @@
                 android:layout_height="wrap_content"
                 android:drawableLeft="@drawable/email"
                 android:hint="Enter UserName"
+                android:textColor="#0d0a0a"
                 android:inputType="text"
                 android:singleLine="true"
                 android:textSize="25dp"
@@ -88,6 +101,7 @@
                 android:drawableStart="@drawable/pass"
                 android:hint="Enter Password"
                 android:inputType="textPassword"
+                android:textColor="#0d0a0a"
                 android:singleLine="true"
                 android:textSize="25dp"
                 android:textStyle="italic|bold" />

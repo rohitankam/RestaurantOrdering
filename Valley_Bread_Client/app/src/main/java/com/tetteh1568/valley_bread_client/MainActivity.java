@@ -5,7 +5,9 @@ import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.support.annotation.NonNull;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.util.Log;
@@ -28,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private String user_name,pass_text,email_text;
     ConnectivityManager conn;
     NetworkInfo net;
+    private  boolean backclick=false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -73,15 +76,25 @@ public class MainActivity extends AppCompatActivity {
                     else {
                         // If sign in fails, display a message to the user.
                         Log.w("unsuccess", "createUserWithEmail:failure", task.getException());
-                       Toast.makeText(MainActivity.this,"UserName already exist",Toast.LENGTH_SHORT).show();
-
+//                       Toast.makeText(MainActivity.this,"UserName already exist",Toast.LENGTH_SHORT).show();
+                       Snackbar.make(findViewById(R.id.signup),"Username Already Exists",Snackbar.LENGTH_SHORT).show();
                     }
                     }
             });
 
             }
             else{
-                Toast.makeText(MainActivity.this,"No Internet Connection",Toast.LENGTH_SHORT).show();
+                Snackbar.make(findViewById(R.id.signup),"No Internet connection",Snackbar.LENGTH_SHORT).setAction("RETRY", new View.OnClickListener() {
+                    @Override
+                    public void onClick(View view) {
+                        conn=(ConnectivityManager)getSystemService(CONNECTIVITY_SERVICE);
+                        net=conn.getActiveNetworkInfo();
+                        if(net!=null && net.isConnected()) {
+                            Snackbar.make(findViewById(R.id.signup),"Connected",Snackbar.LENGTH_SHORT).show();
+                        }
+                    }
+                }).show();
+//                Toast.makeText(MainActivity.this,"No Internet Connection",Toast.LENGTH_SHORT).show();
                 conn=(ConnectivityManager)getSystemService(CONNECTIVITY_SERVICE);
                 net=conn.getActiveNetworkInfo();
             }
@@ -90,7 +103,6 @@ public class MainActivity extends AppCompatActivity {
     public void signinButtonClicked(View view){
         Intent loginIntent = new Intent(MainActivity.this,LoginActivity.class);
         startActivity(loginIntent);
-        finish();
     }
 
 
@@ -109,6 +121,34 @@ public class MainActivity extends AppCompatActivity {
             valid=false;
         }
         return valid;
+    }
+
+    public void menu(View view) {
+        startActivity(new Intent(MainActivity.this,MenuActivity.class));
+    }
+
+    @Override
+    public void onBackPressed() {
+        if(!backclick){
+            Toast.makeText(this,"Press back again to exit",Toast.LENGTH_SHORT).show();
+            backclick=true;
+        }
+        else {
+            super.onBackPressed();
+        }
+
+        new CountDownTimer(3000,1000){
+
+            @Override
+            public void onTick(long l) {
+
+            }
+
+            @Override
+            public void onFinish() {
+                backclick=false;
+            }
+        }.start();
     }
 
 }

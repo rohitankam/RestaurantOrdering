@@ -6,6 +6,7 @@ import android.net.Network;
 import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.util.Log;
@@ -49,36 +50,45 @@ public class LoginActivity extends AppCompatActivity {
 
 
     public void signinButtonClicked(View view) {
-        conn=(ConnectivityManager)getSystemService(CONNECTIVITY_SERVICE);
-        net=conn.getActiveNetworkInfo();
-         username = userEmail.getText().toString().trim();
-         pass = userPass.getText().toString().trim();
-         email=username+"@gmail.com";
-        if (valid()) {
-            if(net!=null && net.isConnected()){
+        conn = (ConnectivityManager) getSystemService(CONNECTIVITY_SERVICE);
+        net = conn.getActiveNetworkInfo();
+        username = userEmail.getText().toString().trim();
+        pass = userPass.getText().toString().trim();
+        email = username + "@gmail.com";
+        if (valid() && net!=null && net.isConnected()) {
 
-                Log.d("success", email);
-                Log.d("success", pass);
-                mAuth.signInWithEmailAndPassword(email, pass).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
-                    @Override
-                    public void onComplete(@NonNull Task<AuthResult> task) {
-                        if (task.isSuccessful()) {
-                            Log.d("success", "createUserWithEmail:success");
-                            checkUserExists();
-                        }
-                        else {
-                            Toast.makeText(LoginActivity.this,"UserName and Password Incorrect",Toast.LENGTH_SHORT).show();
-                        }
+            Log.d("success", email);
+            Log.d("success", pass);
+            mAuth.signInWithEmailAndPassword(email, pass).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
+                @Override
+                public void onComplete(@NonNull Task<AuthResult> task) {
+                    if (task.isSuccessful()) {
+                        Log.d("success", "createUserWithEmail:success");
+                        checkUserExists();
+                    } else {
+//                            Toast.makeText(LoginActivity.this,"UserName and Password Incorrect",Toast.LENGTH_SHORT).show();
+                        Snackbar.make(findViewById(R.id.login), "UserName or Password Incorrect", Snackbar.LENGTH_SHORT).show();
                     }
-                });
-            }
-            else{
-                Toast.makeText(LoginActivity.this,"No Internet Connection",Toast.LENGTH_SHORT).show();
-                conn=(ConnectivityManager)getSystemService(CONNECTIVITY_SERVICE);
-                net=conn.getActiveNetworkInfo();
-            }
+                }
+            });
+        } else {
+            Snackbar.make(findViewById(R.id.login), "No Internet connection", Snackbar.LENGTH_SHORT).setAction("RETRY", new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    conn = (ConnectivityManager) getSystemService(CONNECTIVITY_SERVICE);
+                    net = conn.getActiveNetworkInfo();
+                    if (net != null && net.isConnected()) {
+                        Snackbar.make(findViewById(R.id.signup), "Connected", Snackbar.LENGTH_SHORT).show();
+                    }
+                }
+            }).show();
+//                Toast.makeText(LoginActivity.this,"No Internet Connection",Toast.LENGTH_SHORT).show();
+            conn = (ConnectivityManager) getSystemService(CONNECTIVITY_SERVICE);
+            net = conn.getActiveNetworkInfo();
         }
     }
+
+
 
     public void checkUserExists(){
         final String user_id = mAuth.getCurrentUser().getUid();//user root
@@ -116,7 +126,8 @@ public class LoginActivity extends AppCompatActivity {
 //
                      }
                      else {
-                    Toast.makeText(LoginActivity.this,"UserName or Password Incorrect",Toast.LENGTH_SHORT).show();
+//                    Toast.makeText(LoginActivity.this,"UserName or Password Incorrect",Toast.LENGTH_SHORT).show();
+                    Snackbar.make(findViewById(R.id.login),"UserName or Password Incorrect",Snackbar.LENGTH_SHORT).show();
                 }
             }
 

@@ -26,11 +26,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.tetteh1568.valley_bread_client.MainActivity"
-            android:launchMode="singleTask" >
+            android:name="com.tetteh1568.valley_bread_client.SplashScreen"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -38,14 +38,30 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.tetteh1568.valley_bread_client.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name="com.tetteh1568.valley_bread_client.LoginActivity"
-            android:launchMode="singleTask" />
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.tetteh1568.valley_bread_client.MenuActivity"
-            android:launchMode="singleTask" />
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name="com.tetteh1568.valley_bread_client.SingleBreadActivity"
-            android:parentActivityName="com.tetteh1568.valley_bread_client.MenuActivity" />
+            android:name="com.tetteh1568.valley_bread_client.SingleFOODActivity"
+            android:parentActivityName="com.tetteh1568.valley_bread_client.MenuActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.tetteh1568.valley_bread_client.BillActivity"
+            android:screenOrientation="portrait" />
 
         <meta-data
             android:name="android.support.VERSION"

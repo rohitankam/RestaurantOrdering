@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-36:12
 MERGED from [com.android.support:design:26.1.0] C:\gradle-3.3\caches\transforms-1\files-1.1\design-26.1.0.aar\e93e4fadb175570d47d15d89234f1df4\AndroidManifest.xml:17:1-31:12
 MERGED from [com.firebaseui:firebase-ui-database:0.4.4] C:\gradle-3.3\caches\transforms-1\files-1.1\firebase-ui-database-0.4.4.aar\f99d973bfe01d368a350b10288cddb02\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\gradle-3.3\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b8877024801c320fe8706c34c25b62a5\AndroidManifest.xml:17:1-31:12
@@ -33,20 +33,20 @@ MERGED from [com.android.support:support-media-compat:26.1.0] C:\gradle-3.3\cach
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\gradle-3.3\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\34e4d081e1dd4502af505084250b1ced\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\gradle-3.3\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a061d109ee79d312c38d5e9f302b9a8e\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\gradle-3.3\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0087c1ccd6d054d51ab0804e98e21607\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:2:11-69
@@ -55,7 +55,7 @@ ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\
 	android:name
 		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:5:22-77
 application
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:7:5-29:19
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:7:5-34:19
 MERGED from [com.android.support:design:26.1.0] C:\gradle-3.3\caches\transforms-1\files-1.1\design-26.1.0.aar\e93e4fadb175570d47d15d89234f1df4\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\gradle-3.3\caches\transforms-1\files-1.1\design-26.1.0.aar\e93e4fadb175570d47d15d89234f1df4\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\gradle-3.3\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b8877024801c320fe8706c34c25b62a5\AndroidManifest.xml:25:5-29:19
@@ -117,41 +117,51 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\gradle-3.3\caches\transfor
 	android:theme
 		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.tetteh1568.valley_bread.SignInActivity
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:14:9-23:20
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:14:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:16:13-49
 	android:label
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:16:13-45
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:17:13-45
 	android:theme
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:17:13-56
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:18:13-56
 	android:name
 		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:15:13-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:21:27-74
-activity#com.tetteh1568.valley_bread.AddBread
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:24:9-46
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.tetteh1568.valley_bread.AddFood
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:25:9-26:52
+	android:screenOrientation
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:26:13-49
 	android:name
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:24:19-43
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:25:19-42
 activity#com.tetteh1568.valley_bread.OpenOrders
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:25:9-48
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:27:9-28:52
+	android:screenOrientation
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:28:13-49
 	android:name
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:25:19-45
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:27:19-45
 activity#com.tetteh1568.valley_bread.MainActivity
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:26:9-27:58
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:29:9-31:58
+	android:screenOrientation
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:30:13-49
 	android:theme
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:27:13-56
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:31:13-56
 	android:name
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:29:19-47
 activity#com.tetteh1568.valley_bread.LoginActivity
-ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:28:9-50
+ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:32:9-33:51
+	android:screenOrientation
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:33:13-49
 	android:name
-		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:28:19-48
+		ADDED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml:32:19-48
 uses-sdk
 INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ROHiT\AndroidStudioProjects\RestaurantOrdering\Valley_Bread\app\src\main\AndroidManifest.xml

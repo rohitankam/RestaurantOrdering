@@ -1,6 +1,9 @@
 package com.tetteh1568.valley_bread;
 
+import android.app.Dialog;
+import android.app.ProgressDialog;
 import android.content.Intent;
+import android.graphics.Path;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.support.annotation.NonNull;
@@ -10,6 +13,7 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -22,6 +26,8 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
+import java.util.ArrayList;
+
 public class LoginActivity extends AppCompatActivity {
 
     private EditText userEmail,userPass;
@@ -30,6 +36,7 @@ public class LoginActivity extends AppCompatActivity {
     private String username,pass,email,userName;
     ConnectivityManager conn;
     NetworkInfo net;
+    private ProgressDialog Dialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +44,7 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
         userEmail = (EditText) findViewById(R.id.userEmail);
         userPass = (EditText) findViewById(R.id.userPass);
+
         mAuth =  FirebaseAuth.getInstance();
         mDatabase = FirebaseDatabase.getInstance().getReference().child("admins");
         userName=userEmail.getText().toString().trim()+"@gmail.com";
@@ -46,9 +54,13 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     public void signinButtonClicked(View view) {
+
          username = userEmail.getText().toString().trim();
          pass = userPass.getText().toString().trim();
         email=username+"@gmail.com";
+        Dialog= new ProgressDialog(LoginActivity.this);
+        Dialog.setMessage("Please Wait...");
+        Dialog.show();
         if (valid()) {
             if (net != null && net.isConnected()) {
 
@@ -59,12 +71,16 @@ public class LoginActivity extends AppCompatActivity {
                         if (task.isSuccessful()) {
                             checkUserExists();
                         } else {
-                            Toast.makeText(LoginActivity.this, "UserName and Password Incorrect", Toast.LENGTH_SHORT).show();
+                            Dialog.hide();
+                            Toast.makeText(LoginActivity.this, "Username or Password Incorrect", Toast.LENGTH_SHORT).show();
+
                         }
                     }
                 });
             } else {
+                Dialog.hide();
                 Toast.makeText(LoginActivity.this, "No Internet Connection", Toast.LENGTH_SHORT).show();
+
                 conn = (ConnectivityManager) getSystemService(CONNECTIVITY_SERVICE);
                 net = conn.getActiveNetworkInfo();
             }
@@ -73,6 +89,7 @@ public class LoginActivity extends AppCompatActivity {
 
 
     public void checkUserExists(){
+
         final String user_id = mAuth.getCurrentUser().getUid();
         mUser=mDatabase.child(user_id);
         mDatabase.addValueEventListener(new ValueEventListener() {
@@ -84,6 +101,7 @@ public class LoginActivity extends AppCompatActivity {
                         public void onDataChange(DataSnapshot dataSnapshot) {
                             Log.d("success", "c");
                             if(email.equals(dataSnapshot.child("Name").getValue().toString()) && pass.equals(dataSnapshot.child("Pass").getValue().toString())) {
+                                Dialog.hide();
                                 Intent menuIntent = new Intent(LoginActivity.this, MainActivity.class);
                                 startActivity(menuIntent);
                                 finish();
@@ -106,7 +124,8 @@ public class LoginActivity extends AppCompatActivity {
 //
                 }
                 else {
-                    Toast.makeText(LoginActivity.this,"UserName or Password Incorrect",Toast.LENGTH_SHORT).show();
+                    Dialog.hide();
+                    Toast.makeText(LoginActivity.this,"UserName does not exists",Toast.LENGTH_SHORT).show();
                 }
             }
 
@@ -120,17 +139,22 @@ public class LoginActivity extends AppCompatActivity {
     public boolean valid(){
         boolean valid =true;
         if(username.isEmpty()||username.length()>32){
+            Dialog.hide();
             userEmail.setError("Please enter valid name");
             valid=false;
         }
         if(pass.isEmpty()){
+            Dialog.hide();
             userPass.setError("Please enter valid password");
             valid=false;
         }
         else if(userPass.length()<6){
+            Dialog.hide();
             userPass.setError("Please enter minimum 6 characters");
             valid=false;
         }
         return valid;
     }
+
+
 }

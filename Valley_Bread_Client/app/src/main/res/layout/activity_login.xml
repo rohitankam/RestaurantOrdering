@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/b_login"
+    android:id="@+id/login"
     tools:context="com.tetteh1568.valley_bread_client.LoginActivity">
 
     <TextView
@@ -13,9 +14,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="2dp"
+        android:fontFamily="serif"
         android:text="@string/app_name"
         android:textAlignment="center"
-        android:textColor="@color/backgroundcolor"
+        android:textColor="@color/colorAccent"
         android:textSize="78dp"
         android:textStyle="bold|italic"
         app:layout_constraintHorizontal_bias="0.0"
@@ -68,6 +70,7 @@
                 android:id="@+id/userEmail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:textColor="#0d0a0a"
                 android:drawableLeft="@drawable/email"
                 android:hint="Enter UserName"
                 android:inputType="text"
@@ -90,6 +93,7 @@
                 android:drawableStart="@drawable/pass"
                 android:hint="Enter Password"
                 android:inputType="textPassword"
+                android:textColor="#0d0a0a"
                 android:singleLine="true"
                 android:textSize="25dp"
                 android:textStyle="italic|bold" />

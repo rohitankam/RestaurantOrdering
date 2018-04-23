@@ -4,30 +4,34 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.tetteh1568.valley_bread_client.SingleBreadActivity">
+    android:background="@drawable/c_menu_item"
+    android:id="@+id/single_bread"
+    tools:context="com.tetteh1568.valley_bread_client.SingleFOODActivity">
 
     <ImageView
         android:id="@+id/singleImageView"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="300dp"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="24dp"
+        android:scaleType="centerCrop"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout2"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.768" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <LinearLayout
         android:id="@+id/linearLayout2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
         android:background="@color/colorPrimaryLight"
         android:orientation="vertical"
-        android:padding="20dp"
+        android:padding="10dp"
         app:layout_constraintBottom_toTopOf="@+id/Login"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent">
 
@@ -35,28 +39,38 @@
             android:id="@+id/singleTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp"
+            android:layout_margin="10dp"
             android:text="name"
-            android:textSize="20dp"
+            android:textSize="30dp"
             android:textStyle="bold" />
 
         <TextView
             android:id="@+id/singleDesc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp"
+            android:layout_marginStart="16dp"
             android:text="desc"
             android:textSize="20dp"
             android:textStyle="bold" />
 
+
+
         <TextView
             android:id="@+id/singlePrice"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
             android:text="price"
             android:textSize="20dp"
             android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:onClick="number"
+            android:hint="click to select plates"/>
 
     </LinearLayout>
 
@@ -65,7 +79,7 @@
         android:id="@+id/Login"
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        android:layout_marginBottom="88dp"
+        android:layout_marginBottom="8dp"
         android:background="@color/colorPrimaryLight"
         android:elevation="40dp"
         android:gravity="center"

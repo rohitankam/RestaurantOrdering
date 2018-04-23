@@ -4,38 +4,37 @@
 <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="100dp"
+    android:layout_width="160dp"
+    android:layout_height="110dp"
     android:layout_margin="10dp"
     app:cardCornerRadius="10dp"
+    android:layout_gravity=""
     app:cardElevation="10dp"
     tools:context="com.tetteh1568.valley_bread_client.MenuActivity">
 
-    <RelativeLayout
-        style="@style/rohit"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
+    <!--<RelativeLayout-->
+        <!--style="@style/rohit"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="horizontal">-->
 
         <ImageView
             android:id="@+id/breadImage"
-            android:layout_width="150dp"
-            android:layout_height="160dp"
-            android:background="@drawable/logo"
-            android:scaleType="matrix" />
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop" />
 
         <TextView
             android:id="@+id/breadName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="12dp"
+            android:layout_above="@+id/breadPrice"
             android:layout_toEndOf="@+id/breadImage"
             android:paddingStart="10dp"
             android:text="Butter Bread"
+            android:visibility="invisible"
             android:textColor="#fffff0"
-            android:textSize="30dp"
-
-            />
+            android:textSize="30dp" />
 
         <TextView
             android:id="@+id/breadDesc"
@@ -52,13 +51,28 @@
             android:id="@+id/breadPrice"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/breadName"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="25dp"
             android:layout_toEndOf="@+id/breadImage"
             android:paddingStart="10dp"
-            android:text="GHS5"
-            android:textColor="@color/colorAccent"
-            android:textSize="20dp"
+            android:text="10"
+            android:textColor="#fffff0"
+            android:textSize="40dp"
+            android:visibility="invisible"
             android:textStyle="bold" />
-    </RelativeLayout>
+
+        <!--<TextView-->
+            <!--android:id="@+id/sign"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_below="@+id/breadName"-->
+            <!--android:layout_marginStart="6dp"-->
+            <!--android:layout_toEndOf="@+id/breadImage"-->
+            <!--android:paddingStart="10dp"-->
+            <!--android:text="$"-->
+            <!--android:textColor="#fffff0"-->
+            <!--android:textSize="30dp"-->
+            <!--android:textStyle="bold" />-->
+    <!--</RelativeLayout>-->
 
 </android.support.v7.widget.CardView>

@@ -4,19 +4,60 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/c_menu_item"
     tools:context="com.tetteh1568.valley_bread_client.MenuActivity">
 
-    <ImageView
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floatingActionButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:onClick="fabclick"
+        android:clickable="true"
+        android:layout_alignEnd="@id/breadList"
+        android:layout_alignBottom="@id/breadList"
+        app:srcCompat="@drawable/bill"/>
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:adjustViewBounds="false"
-        android:cropToPadding="false"
-        android:scaleType="centerCrop"
-        android:src="@drawable/c_menu_item" />
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignTop="@id/breadList"
+        android:background="@color/inputtext"
+        android:gravity="center_horizontal|center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="3dp"
+            android:fontFamily="casual"
+            android:gravity="clip_horizontal"
+            android:text="Food Yummy Food"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:typeface="monospace"
+            app:layout_constraintStart_toEndOf="@+id/name" />
+
+
+    </LinearLayout>
+
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/breadList"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="64dp"
+        android:foregroundGravity="center_horizontal"
+        android:background="@drawable/c_menu_item">
+
 
     </android.support.v7.widget.RecyclerView>
 

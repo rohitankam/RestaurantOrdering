@@ -1,20 +1,19 @@
 package com.tetteh1568.valley_bread_client;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
-import android.os.CountDownTimer;
 import android.support.annotation.NonNull;
 import android.support.annotation.RequiresApi;
-import android.support.v4.app.NavUtils;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.firebase.auth.FirebaseAuth;
@@ -40,7 +39,7 @@ public class MenuActivity extends AppCompatActivity {
 
         mBreadList = (RecyclerView) findViewById(R.id.breadList);
         mBreadList.setHasFixedSize(true);
-        mBreadList.setLayoutManager(new LinearLayoutManager(this));
+        mBreadList.setLayoutManager(new GridLayoutManager(this,2));
         mDatabase = FirebaseDatabase.getInstance().getReference().child("Item");
 
         mAuth = FirebaseAuth.getInstance();
@@ -70,7 +69,7 @@ public class MenuActivity extends AppCompatActivity {
         ){
            @Override
            protected  void populateViewHolder(BreadViewHolder viewHolder, Bread model, int position){
-                viewHolder.setName(model.getName());
+                   viewHolder.setName(model.getName());
                 viewHolder.setPrice(model.getPrice());
                 viewHolder.setDesc(model.getDesc());
                 viewHolder.setImage(getApplicationContext(),model.getImage());
@@ -80,7 +79,7 @@ public class MenuActivity extends AppCompatActivity {
 
                    @Override
                    public void onClick(View v) {
-                            Intent singleBreadActivity = new Intent(MenuActivity.this,SingleBreadActivity.class);
+                            Intent singleBreadActivity = new Intent(MenuActivity.this,SingleFOODActivity.class);
                             singleBreadActivity.putExtra("BreadId",bread_key);
                             startActivity(singleBreadActivity);
                    }
@@ -91,6 +90,11 @@ public class MenuActivity extends AppCompatActivity {
         };
         mBreadList.setAdapter(FBRA);
     }
+
+    public void fabclick(View view) {
+        startActivity(new Intent(MenuActivity.this,BillActivity.class));
+    }
+
     public static  class BreadViewHolder extends RecyclerView.ViewHolder{
         View mView;
         public BreadViewHolder(View itemView) {
@@ -125,27 +129,23 @@ public class MenuActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        if(!backclick){
-            Toast.makeText(this,"Press back again to exit",Toast.LENGTH_SHORT).show();
-            backclick=true;
-        }
-        else {
-            super.onBackPressed();
-        }
-
-        new CountDownTimer(3000,1000){
-
+        AlertDialog.Builder a = new AlertDialog.Builder(this);
+        a.setTitle("LOGOUT");
+        a.setMessage("Do you want to logout ? ");
+        a.setPositiveButton("Logout", new DialogInterface.OnClickListener() {
             @Override
-            public void onTick(long l) {
-
+            public void onClick(DialogInterface dialogInterface, int i) {
+                finish();
             }
-
+        });
+        a.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
             @Override
-            public void onFinish() {
-                backclick=false;
+            public void onClick(DialogInterface dialogInterface, int i) {
+                dialogInterface.cancel();
             }
-        }.start();
+        });
+        a.show();
+
     }
-
-}
+    }
 
